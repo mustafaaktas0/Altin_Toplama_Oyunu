@@ -34,7 +34,3 @@ Programı çalıştırdığınızda:
 
 Sisteminizde "java version "1.8.0_271" veya daha yeni version kurulu olmalıdır.
 
-
-# Geliştiriciler #
-
-Mustafa AKTAŞ
