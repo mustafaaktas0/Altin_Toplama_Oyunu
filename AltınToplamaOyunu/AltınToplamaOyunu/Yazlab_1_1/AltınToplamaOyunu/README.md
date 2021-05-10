@@ -1,4 +1,3 @@
-# yazlab_1_1
 ### YAZLAB DÖNEM 1 PROJE 1 ###
 
 Yazılım Laboratuarı Güz Dönemi 1. Proje.
